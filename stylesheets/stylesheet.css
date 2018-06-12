@@ -1,0 +1,39 @@
+/*#parallel{*/
+/*background:rgba(34, 34, 34, 0.7);*/
+/*color:#fff;*/
+/*font-family: karla;*/
+/*text-align: center;*/
+/*height:100%;*/
+/*}*/
+
+nav{
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#logo{
+	height: auto;
+	width:140px;
+}
+ card .colorspeak{
+    border-color: blue;
+}
+#map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+}
+#schedule ul{
+    font-size:25px;
+    line-height: 2;
+}
+.slider h1{
+	font-size: 8em;
+    font-family: 'Jua', sans-serif;
+}
+body{
+    background: #abbaab;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
